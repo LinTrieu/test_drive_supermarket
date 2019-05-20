@@ -15,14 +15,14 @@ Date: 20/05/19
 Location of instructions: https://diode.makersacademy.com/students/LinTrieu/projects/520
 
 ------------------
-###Action plan
+### Action plan
 
 Write the code for a supermarket checkout that can calculate the price of a number of items. 
 
 Each item should be priced individually, and the checkout should be able to scan them in any order.
 
 ------------------
-###User stories
+### User stories
 
 As a shopper
 So I know how much an item costs
