@@ -12,7 +12,7 @@ Key skill: Test driving multiple objects
 
 Date: 20/05/19
 
-Exercise instructions: https://diode.makersacademy.com/students/LinTrieu/projects/520
+Exercise instructions: https://diode.makersacademy.com/students/LinTrieu/projects/5201
 
 ------------------
 ### Action plan
