@@ -1,4 +1,4 @@
-# Test Drive Supermarket Checkout - exercise
+# Test drive multiple objects - Supermarket Checkout - exercise
 
 Makers Academy
 
@@ -24,7 +24,7 @@ Each item should be priced individually, and the checkout should be able to scan
 Main focus is to follow a rigorous TDD process: RED, GREEN, REFACTOR!
 
 ------------------
-### User stories requirements
+### User story requirements
 
 ```bash
 As a shopper
