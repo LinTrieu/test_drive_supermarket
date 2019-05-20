@@ -24,7 +24,7 @@ Each item should be priced individually, and the checkout should be able to scan
 Main focus is to follow a rigorous TDD process: RED, GREEN, REFACTOR!
 
 ------------------
-### User stories
+### User stories requirements
 
 ```bash
 As a shopper
