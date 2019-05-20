@@ -1,7 +1,5 @@
 ## Supermarket Checkout - exercise
-
 ------------------
-
 ### Test drive multiple objects 
 Makers Academy
 
