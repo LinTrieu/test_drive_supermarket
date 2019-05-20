@@ -1,5 +1,6 @@
-# Test drive multiple objects - Supermarket Checkout - exercise
+# Supermarket Checkout - exercise
 
+## Test drive multiple objects 
 Makers Academy
 
 Project: Simple Checkout
